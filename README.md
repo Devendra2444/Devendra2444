@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">I am a Computer Science Engineering Student who enthusist in learning Machine learning and Strong interest in AI/ML projects and problem solving.</h3>
+<h3 align="left">Computer Science Engineering student passionate about Machine Learning, with a strong interest in AI/ML projects and problem-solving.</h3>
 
 ###
 
