@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on open source project<br>🌱 I’m currently learning Machine learning<br>👯 I’m looking to collaborate on GCOS</p>
+<p align="left">
+💼 Profession: Computer Science Student / Aspiring Software Developer<br>
+🔭 Working on open source project<br>
+🌱 Learning Machine Learning<br>
+</p>
 
 ###
 
